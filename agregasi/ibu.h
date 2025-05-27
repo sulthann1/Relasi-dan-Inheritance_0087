@@ -17,7 +17,7 @@ class ibu {
 
      void tambahAnak(anak*);
      void cetakAnak();
-};
+    };
 
 void ibu :: cetakAnak(){
     cout << "Daftar anak dari ibu\"" <<
